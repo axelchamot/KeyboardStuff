@@ -531,7 +531,7 @@
         "pattern": "VBUS"
       },
       {
-        "netclass": "Power",
+        "netclass": "3V3",
         "pattern": "GND"
       },
       {
